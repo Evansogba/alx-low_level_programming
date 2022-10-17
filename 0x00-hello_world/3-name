@@ -1,1 +1,2 @@
-gcc $CFILE -o clsfun
+#!/bin/bash
+gcc $CFILE -o cisfun
